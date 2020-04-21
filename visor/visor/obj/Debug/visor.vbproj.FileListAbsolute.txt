@@ -1,0 +1,12 @@
+C:\Users\artec\source\repos\visor\visor\bin\Debug\visor.exe.config
+C:\Users\artec\source\repos\visor\visor\bin\Debug\visor.exe
+C:\Users\artec\source\repos\visor\visor\bin\Debug\visor.pdb
+C:\Users\artec\source\repos\visor\visor\bin\Debug\visor.xml
+C:\Users\artec\source\repos\visor\visor\obj\Debug\visor.vbprojAssemblyReference.cache
+C:\Users\artec\source\repos\visor\visor\obj\Debug\visor.Form1.resources
+C:\Users\artec\source\repos\visor\visor\obj\Debug\visor.Resources.resources
+C:\Users\artec\source\repos\visor\visor\obj\Debug\visor.vbproj.GenerateResource.cache
+C:\Users\artec\source\repos\visor\visor\obj\Debug\visor.vbproj.CoreCompileInputs.cache
+C:\Users\artec\source\repos\visor\visor\obj\Debug\visor.exe
+C:\Users\artec\source\repos\visor\visor\obj\Debug\visor.xml
+C:\Users\artec\source\repos\visor\visor\obj\Debug\visor.pdb
